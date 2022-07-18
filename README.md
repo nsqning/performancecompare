@@ -5,9 +5,12 @@ In this repsitory, the folder has a local copy from the repository: https://gith
 
 the file hirechy will be this:
 
-euler35/
-<br>&nbsp;&nbsp;&nbsp;&nbsp;    main.sh
-<br>&nbsp;&nbsp;&nbsp;&nbsp;    compile_on_mac.sh
-<br>&nbsp;&nbsp;&nbsp;&nbsp;    euler35.js|java|cpp|_in.txt
+>euler35/
+
+ >> main_on_mac.sh
+ >
+ >> compile_on_mac.sh
+ >
+ >> euler35.js|java|cpp|_in.txt
 
 
