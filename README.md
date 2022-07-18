@@ -6,8 +6,8 @@ In this repsitory, the folder has a local copy from the repository: https://gith
 the file hirechy will be this:
 
 euler35/
-<br>       main.sh
-<br>       compile_on_mac.sh
-<br>       euler35.js|java|cpp|_in.txt
+<br>    main.sh
+<br>    compile_on_mac.sh
+<br>    euler35.js|java|cpp|_in.txt
 
 
