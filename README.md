@@ -3,11 +3,11 @@ then copy the scripts/*.sh files to euler35/ to make sure they are in same folde
 
 In this repsitory, the folder has a local copy from the repository: https://github.com/AlekseyMalyshev/perfcomp/tree/master/euler35.
 
-the file hirechy like this:
+the file hirechy will be this:
 
 euler35/
-       main.sh
-       compile_on_mac.sh
-       euler35.js|java|cpp|_in.txt
+<br>       main.sh
+<br>       compile_on_mac.sh
+<br>       euler35.js|java|cpp|_in.txt
 
 
