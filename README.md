@@ -2,6 +2,7 @@ Here script is to run the code under https://github.com/AlekseyMalyshev/perfcomp
 then copy the *.sh files to euler35/ to make sure they are in same folder.
 
 In this repsitory, just download a local copy and zip from the repository: https://github.com/AlekseyMalyshev/perfcomp/tree/master/euler35.
+you can extract the euler35.zip to euler35/ folder.
 
 the file hirechy will be this:
 
