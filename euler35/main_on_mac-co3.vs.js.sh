@@ -21,7 +21,7 @@ echo "--------------------------- C++ ---------------------------"
 #g++ -c euler35.cpp
 #g++ -O3 euler35.o
 #g++  -O3 -o euler35.out euler35.cpp
-time ./euler35.out < euler35_in.txt 
+#time ./euler35.out < euler35_in.txt 
 
 echo "--------------------------- C++ O3 ---------------------------"
 #g++ -c euler35.cpp
@@ -30,11 +30,11 @@ echo "--------------------------- C++ O3 ---------------------------"
 time ./euler35_o3.out < euler35_in.txt 
 
 
-echo "--------------------------- Java ---------------------------"
-time java euler35 < euler35_in.txt
+#echo "--------------------------- Java ---------------------------"
+#time java euler35 < euler35_in.txt
 
-echo "--------------------------- JS ---------------------------"
-time node euler35.js < euler35_in.txt
+#echo "--------------------------- JS ---------------------------"
+#time node euler35.js < euler35_in.txt
 
 
 echo "--------------------------- ES6 ---------------------------"
